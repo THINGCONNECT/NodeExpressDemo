@@ -1,0 +1,7 @@
+{
+  "name": "ThingconnectDemoServer",
+  "description": "Thingconnect node.js and express demo",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
